@@ -1,0 +1,113 @@
+body{
+    display: flex;
+    background-color:#A7393E;
+    width: auto;
+    height: 100%;
+    position: absolute;
+}
+button{
+    height: 50px;
+    width: 170px;
+    padding: 8px;
+    background-color: gray;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+
+
+}
+
+textarea{
+  
+    border: none;
+}
+
+footer{
+    position: absolute;
+    top: 550px;
+    width: 63%;
+    margin-left: 110px;  
+ }
+ 
+
+
+.Caja_padre{
+    margin-left: 160px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 120%;
+  
+}
+.Caja_hijo{
+    background: white;
+    position: absolute;
+    height: auto;
+    left: 800px;
+    width: 400px;
+    top: 15px;
+    border-radius: 9px;
+    font-size: 30px;
+    
+}
+
+.input-text{
+    background-color: #A7393E;
+
+}
+
+
+
+.input-text{
+    position: relative;
+    height: 200px;
+    width: 530px;
+    margin-top: 90px;
+    font-size: 30px;
+    color: gray;
+}
+.input-text-area{
+    height: 120px;
+    width: 320px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+}
+.mensaje{
+    margin-left: 28px;
+    font-size: 25px;
+}
+.Aclaracion{
+    font-size: small;
+    margin-left: 40px;
+}
+
+
+.iconos{
+    position: relative;
+    top: 10px;
+    left: 300px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.icono-instamgram{
+    height: 20px;
+    margin-right: auto;
+   
+
+   
+}
+.icono-linkedin{
+    height: 20px;
+    width: 20px;
+
+}
+p{
+    position: relative;
+    right: 25px;
+  margin-right: 40px;
+}
